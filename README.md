@@ -25,7 +25,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Wanous&theme=dark&card_width=30&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" height="30%"/>
     </a>
     <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wanous&theme=github-dark&point=00000000&radius=10#gh-dark-mode-only" alt="GitHub Activity Graph" width="55%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wanous&theme=github-dark&point=00000000&radius=10#gh-dark-mode-only" alt="GitHub Activity Graph" width="60%">
     </a>
 </div>
 
