@@ -1,8 +1,4 @@
-<div align="center">
-        
-# <mark>**✨ Hi, I’m [Wanous](https://github.com/Wanous) ✨**</mark>
-
-</div >
+<div align="center"><h1><mark><bold>✨ Hi, I’m <a href="https://github.com/Wanous">Wanous</a>✨**</bold></mark></h1></div>
 
 > [!NOTE]  
 >- I'm a passonate of computer sciences💻 and a lover of mathematiques 📏
