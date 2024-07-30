@@ -1,10 +1,9 @@
-<div align="center"><h1><mark><bold>✨ Hi, I’m <a href="https://github.com/Wanous">Wanous</a> ✨</bold></mark></h1></div>
+<div align="center"><h1><mark><bold>✨ Hi, I’m <a href="https://github.com/Wanous">Wanou</a> ✨</bold></mark></h1></div>
 
 > [!NOTE]  
 >- I'm a passonate of computer sciences 💻 and a lover of mathematiques 📐
 >- I’m currently learning computer sciences in an engineering school to be an software engineer 📍
 >- I’m always looking to learn more and share my knowledge with others 📘
->- My true nickname is Wanou but it's already taken 😑
 >- I love memes 📎
 
 ## 📊 Some stats if you want
