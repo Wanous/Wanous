@@ -1,4 +1,4 @@
-<div align="center"><h1><mark><bold>✨ Hi, I’m <a href="https://github.com/Wanous">Wanous</a>✨**</bold></mark></h1></div>
+<div align="center"><h1><mark><bold>✨ Hi, I’m <a href="https://github.com/Wanous">Wanous</a> ✨</bold></mark></h1></div>
 
 > [!NOTE]  
 >- I'm a passonate of computer sciences💻 and a lover of mathematiques 📏
