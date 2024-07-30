@@ -39,9 +39,9 @@
 > 
 </div>
 
-___
+> I mostly use python for my big projects but I know other languages                               
+> Maybe in the future there will be more mixity 
 
-___
    
 ## 💬 How to reach me :
 
