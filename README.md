@@ -1,11 +1,27 @@
+<div align="center">
+        
 # <mark>**Hi, I’m @Wanous**</mark>
 
+</div >
 
-> [!IMPORTANT]  
+> [!NOTE]  
 >- I'm a passonate of computer sciences💻 and a lover of mathematiques 📏
 >- 🌱 I’m currently learning computer sciences in an engineering school to be an software engineer
 >- I love memes 📎
+
 ## 📊 Some stats if you want
+
+<div align="left">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Wanous&theme=dark&card_width=30&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" height="30%"/>
+    </a>
+    <a href="#gh-dark-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wanous&theme=github-dark&point=00000000&radius=10#gh-dark-mode-only" alt="GitHub Activity Graph" width="65%">
+    </a>
+</div >
+
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wanous&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <a href="#gh-dark-mode-only">
         <img alt="HTML" src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5#gh-dark-mode-only">
@@ -19,17 +35,7 @@
 <a href="#gh-dark-mode-only">
         <img alt="SQL" src="https://img.shields.io/badge/SQL-050505?style=for-the-badge&logo=sqlite&logoColor=969696#gh-dark-mode-only">
 </a>
-
-<div align="left">
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Wanous&theme=dark&card_width=30&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" height="30%"/>
-    </a>
-    <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wanous&theme=github-dark&point=00000000&radius=10#gh-dark-mode-only" alt="GitHub Activity Graph" width="65%">
-    </a>
 </div>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wanous&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## 💬 How to reach me :
 
