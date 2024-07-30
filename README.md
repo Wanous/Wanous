@@ -8,13 +8,12 @@
 
 ## 📊 Some stats if you want
 <div align="left">
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Wanous&theme=dark&card_width=30&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" height="30%"/>
-    </a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Wanous&hide_border=true&card_width=150&card_height=50&background=EB003D00&border=1F6FEB&stroke=1F6FEB&ring=1F6FEB&fire=1F6FEB&currStreakNum=1F6FEB&sideNums=1F6FEB&currStreakLabel=1F6FEB&sideLabels=7BC2EB&dates=7BC2EB&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
     <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wanous&theme=github-dark&point=00000000&radius=10#gh-dark-mode-only" alt="GitHub Activity Graph" width="65%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wanous&theme=github-dark&point=00000000&radius=10#gh-dark-mode-only" alt="GitHub Activity Graph" height="110%" width="65%">
     </a>
 </div >
+
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wanous&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" align="left"/>
