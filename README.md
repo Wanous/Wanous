@@ -3,6 +3,7 @@
 > [!NOTE]  
 >- I'm a passonate of computer sciences 💻 and a lover of mathematiques 📐
 >- 🌱 I’m currently learning computer sciences in an engineering school to be an software engineer
+>- I am always looking to learn more and share my knowledge with others📕
 >- My true nickname is Wanou but it's already taken 😑
 >- I love memes 📎
 
