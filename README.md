@@ -11,7 +11,6 @@
 >- I love memes 📎
 
 ## 📊 Some stats if you want
-
 <div align="left">
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Wanous&theme=dark&card_width=30&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" height="30%"/>
@@ -42,13 +41,14 @@
  I mostly use python for my big projects but I know other languages                               
  Maybe in the future there will be more mixity 
 
+<br>
    
 ## 💬 How to reach me :
-
-<a href="https://www.linkedin.com/in/dhanushkamadushan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/dhanushka_m/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/dhanushka.madushan.37" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://open.spotify.com/playlist/37i9dQZF1DWYfNJLV7OBMA" target="_blank"><img src="https://img.shields.io/badge/Discord%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/dhanushkadev" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<div align = "left">
+        <a href="https://discordapp.com/users/614242668318425116" target="_blank">
+                <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+        </a>
+        <img src="https://img.shields.io/badge/Mail-wanous351@gmail.com-red?style=for-the-badge&logoSize=10px" alt="E-mail">
+</div>
 
 
