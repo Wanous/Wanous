@@ -16,7 +16,7 @@
 
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wanous&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wanous&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ovi" align="left"/>
 
 <h4>🪛 languages </h4>
 <a href="#gh-dark-mode-only">
