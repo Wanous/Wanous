@@ -1,12 +1,13 @@
 <div align="center">
         
-# <mark>**Hi, I’m @Wanous**</mark>
+# <mark>**✨ Hi, I’m [Wanous](https://github.com/Wanous) ✨**</mark>
 
 </div >
 
 > [!NOTE]  
 >- I'm a passonate of computer sciences💻 and a lover of mathematiques 📏
 >- 🌱 I’m currently learning computer sciences in an engineering school to be an software engineer
+>- My true nickname is Wanou but it's already taken 😑
 >- I love memes 📎
 
 ## 📊 Some stats if you want
@@ -23,20 +24,19 @@
 <div >
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wanous&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" align="left"/>
 
-><h4>🪛 languages </h4>
-><a href="#gh-dark-mode-only">
->        <img alt="HTML" src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5#gh-dark-mode-only">
-> </a>
-> <a href="#gh-dark-mode-only">
->         <img alt="CSS" src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=1572B6#gh-dark-mode-only">
-> </a>
-> <a href="#gh-dark-mode-only">
->         <img alt="Python" src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=FFF824#gh-dark-mode-only">
-> </a>
-> <a href="#gh-dark-mode-only">
->         <img alt="SQL" src="https://img.shields.io/badge/SQL-050505?style=for-the-badge&logo=sqlite&logoColor=969696#gh-dark-mode-only">
-> </a>
-> 
+<h4>🪛 languages </h4>
+<a href="#gh-dark-mode-only">
+        <img alt="HTML" src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5#gh-dark-mode-only">
+</a>
+<a href="#gh-dark-mode-only">
+         <img alt="CSS" src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=1572B6#gh-dark-mode-only">
+</a>
+<a href="#gh-dark-mode-only">
+         <img alt="Python" src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=FFF824#gh-dark-mode-only">
+</a>
+<a href="#gh-dark-mode-only">
+        <img alt="SQL" src="https://img.shields.io/badge/SQL-050505?style=for-the-badge&logo=sqlite&logoColor=969696#gh-dark-mode-only">
+</a> 
 </div>
 
 > I mostly use python for my big projects but I know other languages                               
