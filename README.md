@@ -39,8 +39,8 @@
 </a> 
 </div>
 
-> I mostly use python for my big projects but I know other languages                               
-> Maybe in the future there will be more mixity 
+ I mostly use python for my big projects but I know other languages                               
+ Maybe in the future there will be more mixity 
 
    
 ## 💬 How to reach me :
