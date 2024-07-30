@@ -20,23 +20,29 @@
     </a>
 </div >
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wanous&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<div >
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wanous&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" align="left"/>
 
-<a href="#gh-dark-mode-only">
-        <img alt="HTML" src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5#gh-dark-mode-only">
-</a>
-<a href="#gh-dark-mode-only">
-        <img alt="CSS" src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=1572B6#gh-dark-mode-only">
-</a>
-<a href="#gh-dark-mode-only">
-        <img alt="Python" src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=FFF824#gh-dark-mode-only">
-</a>
-<a href="#gh-dark-mode-only">
-        <img alt="SQL" src="https://img.shields.io/badge/SQL-050505?style=for-the-badge&logo=sqlite&logoColor=969696#gh-dark-mode-only">
-</a>
+><h4>🪛 languages </h4>
+><a href="#gh-dark-mode-only">
+>        <img alt="HTML" src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5#gh-dark-mode-only">
+> </a>
+> <a href="#gh-dark-mode-only">
+>         <img alt="CSS" src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=1572B6#gh-dark-mode-only">
+> </a>
+> <a href="#gh-dark-mode-only">
+>         <img alt="Python" src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=FFF824#gh-dark-mode-only">
+> </a>
+> <a href="#gh-dark-mode-only">
+>         <img alt="SQL" src="https://img.shields.io/badge/SQL-050505?style=for-the-badge&logo=sqlite&logoColor=969696#gh-dark-mode-only">
+> </a>
+> 
 </div>
 
+___
+
+___
+   
 ## 💬 How to reach me :
 
 <a href="https://www.linkedin.com/in/dhanushkamadushan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
