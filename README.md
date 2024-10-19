@@ -31,6 +31,8 @@
 <a href="#gh-dark-mode-only">
         <img alt="SQL" src="https://img.shields.io/badge/SQL-050505?style=for-the-badge&logo=sqlite&logoColor=969696#gh-dark-mode-only">
 </a> 
+
+ ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=black)
 </div>
 
  I mostly use python for my big projects but I know other languages                               
