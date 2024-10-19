@@ -2,7 +2,7 @@
 
 > [!NOTE]  
 >- I'm a passonate of computer sciences 💻 and a lover of mathematiques 📐
->- I’m currently in an engineering school to be an software engineer 📍
+>- I’m currently in an engineering school to be a software engineer 📍
 >- I’m always looking to learn more and share my knowledge with others 📘
 >- I love memes 📎
 
